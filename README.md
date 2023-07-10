@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning how to code, develop skills n become a fron-tend programmer.
 - 🌱 I’m currently learning html5 & css3...
 - 💞️ I’m looking to collaborate on any project that could help me grow up on this area.
-- 📫 How to reach me basilio.q.dinis@hotmail.com, whatsapp:+244939197567, instagram: @bqdins.
+- 📫 How to reach me basilio.q.dinis@hotmail.com, whatsapp:+244939197567, instagram: @bqdinis.
 
 <!---
 Bqdinis/Bqdinis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
